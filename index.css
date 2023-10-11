@@ -1,0 +1,87 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	font-family: sans-serif;
+	font-size: 16px;
+}
+
+/*Jumbotron*/
+.jumbotron {
+	background-image: url(images/background/bgpotong.jpg);
+	background-size: cover;
+	height: 370px;
+	width: 100%;
+	color: azure;
+}
+
+.jumbotron .display-4 {
+	margin-top: 35px;
+font-family: all;
+font-size: 90px;
+
+}
+
+.jumbotron p {
+	font-family: courier,arial,helvetica;
+	font-size: 28px;
+}
+
+.jumbotron hr {
+	border-color: white;
+	width: 400px;
+	border-width: 3px;
+}
+/*Akhir Jumbotron*/
+
+/*Navbar*/
+.navbar {
+	margin-top: -32px;
+}
+
+.navbar .navbar-nav .nav-link {
+	font-family: all;
+	color: white;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+	color: orange;
+}
+
+.navbar .navbar-brand  {
+	
+	font-size: 30px;
+}
+/*Akhir Navbar*/
+
+/*Footer*/
+.footer {
+	border-width: 3px;
+}
+
+.footer-body {
+	background-color: #2f5167;
+	color:#fff;
+	width: 800px
+	height:180px;
+	padding: 80px;
+	font-family: all;
+	margin-top: 30px;
+	
+}
+/*Akhir Footer*/
+
+/*Home*/
+.judul {
+	font-family: all;
+	margin-bottom: 120px;
+}
+
+
+
+.card-img:hover {
+	box-shadow: 2px 2px 10px rgba(0,0,0,0.4);	
+}
+
+/*Akhir Home*/
